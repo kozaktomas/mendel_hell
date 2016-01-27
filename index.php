@@ -9,7 +9,8 @@ function nactiToAleFofrem($subor, $kolik_tam_toho_je)
     $cislo_radku_popisku_votazky = $cislo_radku_votazky + 1;
 
     echo "<h2>" . trim($radky_suboru[$cislo_radku_votazky]) . "</h2>";
-    echo "<p>" . trim($radky_suboru[$cislo_radku_popisku_votazky]) . "</p>";
+    echo '<p id="cudlik">Zobrazit popis</p>';
+    echo "<p id='popis' style='display: none;'>" . trim($radky_suboru[$cislo_radku_popisku_votazky]) . "</p>";
 }
 
 function namalujVrch()
@@ -20,6 +21,9 @@ function namalujVrch()
       <head>
         <meta charset=\"UTF-8\">
         <title>Titulek stránky</title>
+        <script src='//code.jquery.com/jquery-1.12.0.min.js'></script>
+        <script src='//code.jquery.com/jquery-migrate-1.2.1.min.js'></script>
+        <script src='js.js'></script>
       </head>
       <body>
     ";
