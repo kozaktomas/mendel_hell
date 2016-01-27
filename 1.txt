@@ -1,0 +1,48 @@
+1.	Architektura informačních systémů
+význam, komponentová architektura a architektura založená na službách (SOA), modelem řízená architektura (MDA), další moderní přístupy k architektuře IS
+2.	Vývoj informačního systému objektově
+iterativní a přírůstkový model, UP – její fáze, jiné objektové metodiky. Objektová analýza; UML, struktura UML, prvky, vazby, diagramy, modely a pohledy, třídy a objekty, oblasti využití diagramů UML ve vizuálním modelování a jejich vztahy
+3.	Analýza požadavků na software
+požadavkové inženýrství, specifikace požadavků, zásady tvorby specifikace, modelování požadavků
+4.	Řízení projektu vývoje IS
+význam modelování pro projekt, cíle a struktura projektu, úkoly, zdroje a náklady projektu, vlastnosti projektu, akceptace projektu, hlavní produkty a dokumenty projektu. Odhady v softwarových projektech. Řízení rizik v projektech
+5.	Procesní řízení
+modelování podnikových procesů, reengineering podnikových procesů
+6.	Moderní přístupy k inovaci informačních systémů
+outsourcing, cloud computing, BI a další
+7.	Právní aspekty tvorby SW
+ochrana osobních údajů, autorský zákon
+8.	Efektivnost IS
+ekonomické zhodnocení podnikových IS, strategické řízení IS, obsah a tvorba informační strategie.
+9.	Systémová integrace
+základní úrovně, příčiny neúspěchu tvorby IS, kritéria nasazení typového aplikačního SW, struktura a moduly ERP systémů
+10.	Umělá inteligence a metody UI
+znalostní, expertní a fuzzy expertní systémy, důvody tvorby a postup, oblasti využití, umělé neuronové sítě
+11.	Softwarové inženýrství (SI)
+pojetí SI, směry SI, proces vývoje softwaru a jeho modely, softwarový projekt, plánování projektu, jeho řízení a rizika
+12.	Metodologie softwarového inženýrství
+obecné principy SI, klasifikace a charakteristiky metodik SI, agilní přístupy, RAD
+13.	Komponentové modely
+komponentové modely na systémech Java a Microsoft COM, filosofie a charakter frameworků
+14.	Návrh software
+architektura softwarových systémů, architektura logická, návrhová a fyzická, modelování softwarových systémů, návrhové vzory
+15.	Tvorba software
+paradigmata tvorby software, vývojová prostředí, možnosti použití CASE nástrojů, automatizace tvorby SW, verzování, modularizace a API
+16.	Dokumentace softwarového projektu
+dokumentace a její význam, typy dokumentace, dokumentace dle fází životního cyklu, programová dokumentace, automatizace tvorby dokumentace
+17.	Metriky softwarových systémů
+klasifikace metrik, využití metrik a jejich zjišťování, kvalita softwaru
+18.	Validace a verifikace softwaru
+metody a techniky testování, akceptační testy, funkční a zátěžové testování, refaktoring
+19.	Matematické základy teorie formálních jazyků
+binární relace na množině – reprezentace, vlastnosti, tranzitivní a reflexivní uzávěr, význačné relace
+20.	Formální jazyk
+abeceda, řetězec, jazyk, operace nad jazyky, reprezentace jazyků, gramatika a automat, třídy formálních jazyků podle Chomského klasifikace
+21.	Lineární jazyky
+lineární gramatika, regularizace, konečný automat, deterministický konečný automat, regulární množina, regulární výraz a jeho implementace (grep, perl), lexikální analýza
+22.	Jazyky typu 2
+derivační strom, bezkontextové gramatiky, Chomského normální forma, Greibachové normální forma, zásobníkový automat, syntaktická analýza
+23.	Deterministické bezkontextové jazyky třídy LL
+princip analýzy LL jazyků, transformace gramatik na typ LL(1), deterministický zásobníkový automat, konstrukce rozkladové tabulky
+24.	Konstrukce překladačů
+interpret, kompilátor, lexikální analyzátor, syntaktická analýza metodou rekurzivního sestupu, sémantická analýza, implementace sémantických akcí

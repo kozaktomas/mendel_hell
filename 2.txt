@@ -1,0 +1,48 @@
+1. Teoretické discipliny systémové vědy
+systémový přístup, obecná teorie systému, systémová statika a dynamika, úlohy na statických a dynamických systémech, kybernetika.
+2. Aplikované disciplíny systémové vědy
+systémová analýza, systémová syntéza, operační výzkum, systémové inženýrství.
+3. Systémové modelování a simulace
+modely, matematické modely, modelování struktur a chování, proces modelování, proces simulace a možnosti jejího využití.
+4. Vybrané úlohy systémového inženýrství
+úlohy o tvorbě modelu, úlohy s modelem (struktura, dynamika), úlohy ovládání (využití) systému, měkkost systému.
+5. Architektury systému
+podniková architektura (TOGAF, MODAF, DODAF, Zachman), architektury IEEE 1471, NASA apod.
+6. Životní cyklus systému
+přístupy k životnímu cyklu systému (NASA, Vee graf, DoD, IEEE 1220 apod.), životní cyklus softwarových produktů a informačních systémů.
+7. Výroková a predikátová logika
+logické spojky, úplné systémy logických spojek, normální formy zápisu formulí, deduktivní soustava, axiomatická výstavba.
+8. Teorie množin a algebra
+konečné a nekonečné množiny, Cantorova metoda diagonalizace, množinové operace, relace, zobrazení, operace, algebraické struktury.
+9. Turingův stroj
+definice, výpočetní síla, Churchova teze, rozhodnutelné, částečně rozhodnutelné a nerozhodnutelné problémy.
+10. Složitost
+druhy složitosti, asymptotická časová složitost, složitostní třídy, vztah tříd P a NP.
+11. Pokročilé datové struktury
+grafy, stromy, aplikace stromů pro vyhledávání a řazení.
+12. Sítě
+definice sítě a toku, věta o maximálním toku a minimálním řezu, hledání maximálního toku.
+13. Podnikohospodářské modely
+metoda redukce, kvantitativní souvislosti, konstruktivní model, hypotéza, verifikace hypotézy, struktura modelu, kritéria pro systemizaci podnikohospodářských modelů (deskriptivní modely, explikativní modely, rozhodovací modely, prognostické modely, deterministické modely, stochastické modely).
+14. Produkce a náklady podniku
+produkční funkce, princip hospodárnosti, dynamika, analýza izokvant, substituovatelnost a limitovanost, parciální a komplexní analýza, mezní míra substituce, nákladové izokvanty, nákladové minimum, progresivita a degresivita nákladů, krátkodobá a dlouhodobá funkce nákladů, nákladové determinanty.
+15. Pokročilé metody hodnocení investic
+Deanův model, rozhodování za nejistoty, metoda korekce, analýza citlivosti, analýza rizika, teorie portfolia, metoda rozhodovacího stromu.
+16. Produktivita práce a její měření
+extenzita práce, intenzita práce, normy pracnosti, normy spotřeby času, přestávky, ztráty časových fondů, ukazatelé pracnosti, výpočty produktivity.
+17. Hospodaření s majetkem podniku
+struktura majetku, dlouhodobý majetek, jednotlivé formy majetku, zhodnocení majetku, obměna majetku, hospodaření s nářadím a přípravky, počet jednotek, opotřebení nástrojů, životnost nástrojů, normy spotřeby, zásoby nářadí, energetické hospodaření, modely obnovy a údržby, technická doba života, výpočet ekonomické doby života.
+18. Bilanční politika a bilanční teorie
+cíle bilanční politiky, nástroje bilanční politiky, bilanční analýza, výpočet a vyhodnocení ukazatelů, hranice bilanční analýzy, statické, dynamické a organické pojetí bilanční teorie, zachování kapitálu, zachování substance, teorie ekonomického zisku, koncepce zdokonalování.
+19. Strategický management
+pojem „strategie“, podmínky vyvolávající potřebu strategického managementu, proces strategického managementu, poslání firmy a stanovení cílů.
+20. Vnější prostředí a metodické přístupy k jeho analýze
+STEP analýza, Porterova strukturální analýza odvětví, konkurenční síly, nedostatky modelu, možnosti doplnění modelu.
+21. Analýza strategických skupin a analýza zájmových skupin
+důvody pro analýzu strategických a zájmových skupin; dopady výsledků analýzy na proces formulace strategie.
+22. Vnitřní prostředí a metodické přístupy k jeho analýze
+funkcionální přístup, 7 S, hodnototvorný řetězec.
+23. Typy strategií
+přístupy k členění strategií; specifické podmínky použitelnosti jednotlivých typů strategií.
+24. Proces formulace strategií
+pomocné nástroje pro formulaci strategií, hodnocení a výběr strategií – metody, pomocné nástroje.

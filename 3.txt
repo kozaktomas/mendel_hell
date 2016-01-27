@@ -1,0 +1,24 @@
+1.	Databázové systémy
+hierarchický a relační datový model, jejich porovnání, využití v praxi. Realizace datové struktury strom v obou modelech, výhody, nevýhody. Objektově orientované databázové modely.
+2.	Databázové systémy
+indexy a jejich realizace, stromové struktury, hashování. Organizace dat v DBS a na externím médiu. Data warehouse a data mining; principy, OLAP, prostorová náročnost, techniky přístupu.
+3.	Komprimace dat
+ztrátová a neztrátová komprimace, algoritmy pro kompresi textu, obrazu, audia a videa.
+4.	Kryptologie
+vývoj kryptografie a kryptoanalýzy, symetrická kryptografie (DES, AES), asymetrická kryptografie (RSA, certifikáty, digitální podpis), kvantová kryptografie.
+5.	Počítačová grafika
+základy zpracování obrazového signálu – Fourierova transformace, filtrování, úpravy rastrových obrazů. Reprezentace rovinných a prostorových útvarů (transformace ve 2D a 3D, grafická primitiva, vyplňování, ořez, osvětlení).
+6.	Počítačová grafika
+aplikace metod při řešení zobrazovacích úloh – grafická API, událostně řízené programování, pohledové a projekční matice, hierarchické struktury, grafické karty, programovatelný HW.
+7.	Počítačové sítě
+návrh a realizace LAN, L2/L3 design, redundance, load balancing, bezdrátové sítě, multimediální přenosy, IP telefonie, IPv6, aplikační služby, adresářové služby. Monitoring a management počítačové sítě.
+8.	Počítačové sítě
+bezpečnost počítačových sítí, L1-L7 security, řízený přístup uživatelů do sítě, jednotná autentizace, AAA, VPN, firewally, IDS/IPS systémy, bezpečnost bezdrátových sítí a síťových služeb.
+9.	Teorie grafů
+definice grafu, jeho vlastnosti, reprezentace grafu, prohledávání grafu, hledání nejkratší cesty a minimální kostry grafu.
+10.	Teoretická informatika
+konečné a nekonečné množiny, Cantorova metoda diagonalizace, množinové operace, relace, zobrazení, algebraické struktury.
+11.	Umělá inteligence
+inteligentní agenti – definice, význam, vlastnosti a autonomie. Základní typy IA, jejich struktura, komunikace. Multiagentní systémy. Samoučící se agenti a teorie her.
+12.	Umělá inteligence
+prohledávání stavového prostoru – základní algoritmy, princip, použití. Heuristické postupy. Plánování (plány a jejich reprezentace) a rozhodování.
